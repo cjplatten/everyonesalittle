@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/everyonesalittle/static/css/main.82359ea6.css",
+    "main.js": "/everyonesalittle/static/js/main.9c98a9a3.js",
+    "static/js/787.6375da11.chunk.js": "/everyonesalittle/static/js/787.6375da11.chunk.js",
+    "static/media/pride square.jpeg": "/everyonesalittle/static/media/pride square.6eed180e5c9e19033db2.jpeg",
+    "static/media/flag.jpeg": "/everyonesalittle/static/media/flag.a6fb147f305107c88871.jpeg",
+    "index.html": "/everyonesalittle/index.html",
+    "main.82359ea6.css.map": "/everyonesalittle/static/css/main.82359ea6.css.map",
+    "main.9c98a9a3.js.map": "/everyonesalittle/static/js/main.9c98a9a3.js.map",
+    "787.6375da11.chunk.js.map": "/everyonesalittle/static/js/787.6375da11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82359ea6.css",
+    "static/js/main.9c98a9a3.js"
+  ]
+}
